@@ -6,6 +6,7 @@ API_ID = int(getenv("API_ID", ""))
 API_HASH = getenv("API_HASH", "")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 
+LOGS_ID = int(getenv("LOGS_ID", ""))
 OWNER_ID = int(getenv("OWNER_ID", ""))
 CHANNEL_ID = int(getenv("CHANNEL_ID", ""))
 CHANNEL_DB = int(getenv("CHANNEL_DB", ""))
