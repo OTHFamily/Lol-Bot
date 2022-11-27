@@ -6,6 +6,7 @@ API_ID = int(getenv("API_ID", "6092505"))
 API_HASH = getenv("API_HASH", "98d119a0bebd325358589b62461e41a2")
 BOT_TOKEN = getenv("BOT_TOKEN", "5922628796:AAEdoXSAlf2aR8iMMypj7LCWY5c3do1bwFs")
 
+LOGS_ID = int(getenv("LOGS_ID", "-1001772777156"))
 BRANCH = "main"
 GIT_TOKEN = getenv(
     "GIT_TOKEN",
