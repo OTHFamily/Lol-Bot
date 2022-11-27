@@ -1,4 +1,5 @@
 gitpython
+pyromod 
 pyrogram
 tgcrypto 
 uvloop
