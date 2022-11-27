@@ -8,8 +8,8 @@ BOT_TOKEN = getenv("BOT_TOKEN", "5922628796:AAEdoXSAlf2aR8iMMypj7LCWY5c3do1bwFs"
 
 LOGS_ID = int(getenv("LOGS_ID", "-1001772777156"))
 OWNER_ID = int(getenv("OWNER_ID", "1802485572"))
-# CHANNEL_ID = int(getenv("CHANNEL_ID", "-1001835487855"))
-# CHANNEL_DB = int(getenv("CHANNEL_DB", "-1001879209028"))
+CHANNEL_ID = int(getenv("CHANNEL_ID", "-1001835487855"))
+CHANNEL_DB = int(getenv("CHANNEL_DB", "-1001879209028"))
 
 BRANCH = "main"
 GIT_TOKEN = getenv(
