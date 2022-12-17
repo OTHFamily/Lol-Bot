@@ -1,7 +1,7 @@
 from pyrogram import idle
 from uvloop import install
 
-from Pmo.misc import git
+from .misc import git
 from Pmo.config import LOGS_ID
 from Pmo import app, logs, loop
 
